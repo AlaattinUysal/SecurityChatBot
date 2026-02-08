@@ -1,0 +1,61 @@
+[2026-01-01 14:52:25] --- SUNUCU BAŞLATILIYOR (Port: 5555) ---
+[2026-01-01 14:53:11] [KAYIT] cagatay (Anahtar: cagatay123)
+[2026-01-01 14:53:18] [KAYIT] ozkan (Anahtar: ozkan1234)
+[2026-01-01 14:53:30] [AYRILDI] cagatay
+[2026-01-01 14:53:44] 
+--- [ŞİFRELEME KANITI] ---
+[2026-01-01 14:53:44] 1. Gelen Şifreli (ozkan): wMXBMDvWsjY=
+[2026-01-01 14:53:44] 2. Sunucu Çözdü (Plain): selam
+[2026-01-01 14:53:44] 3. Hedef (cagatay) İçin Şifrelendi: +uE/GuKGyNQ=
+[2026-01-01 14:53:44] --------------------------
+
+[2026-01-01 14:53:44] [STOK] cagatay offline. Mesaj bekletiliyor.
+[2026-01-01 14:54:19] [KAYIT] cagatay (Anahtar: test1234)
+[2026-01-01 14:54:19] [OFFLINE] cagatay mesajları iletildi.
+[2026-01-01 14:54:31] [AYRILDI] cagatay
+[2026-01-01 14:54:53] [KAYIT] cagatay (Anahtar: cagatay123)
+[2026-01-01 14:55:03] [AYRILDI] cagatay
+[2026-01-01 14:55:14] 
+--- [ŞİFRELEME KANITI] ---
+[2026-01-01 14:55:14] 1. Gelen Şifreli (ozkan): /KfEFj7qSK1sjRDhC2t4ZiSsP6y75uyC
+[2026-01-01 14:55:14] 2. Sunucu Çözdü (Plain): mesajı gördün mü
+[2026-01-01 14:55:14] 3. Hedef (cagatay) İçin Şifrelendi: Zq4IElhv0HFaDiI5+NU8alyVestu6cvZ
+[2026-01-01 14:55:14] --------------------------
+
+[2026-01-01 14:55:14] [STOK] cagatay offline. Mesaj bekletiliyor.
+[2026-01-01 14:55:35] [KAYIT] cagatay (Anahtar: cagatay123)
+[2026-01-01 14:55:35] [OFFLINE] cagatay mesajları iletildi.
+[2026-01-01 14:55:56] 
+--- [ŞİFRELEME KANITI] ---
+[2026-01-01 14:55:56] 1. Gelen Şifreli (cagatay): ifovTvKiw6Y=
+[2026-01-01 14:55:56] 2. Sunucu Çözdü (Plain): hayır
+[2026-01-01 14:55:56] 3. Hedef (ozkan) İçin Şifrelendi: OMGn0ODMZP8=
+[2026-01-01 14:55:56] --------------------------
+
+[2026-01-01 14:56:03] [AYRILDI] cagatay
+[2026-01-01 14:56:04] [AYRILDI] ozkan
+[2026-01-01 22:41:32] --- SUNUCU BAŞLATILIYOR (Port: 5555) ---
+[2026-01-01 22:42:54] [KAYIT] ali (Anahtar: 12345678)
+[2026-01-01 22:43:18] [KAYIT] veli (Anahtar: 87654321)
+[2026-01-01 22:43:28] 
+--- [ŞİFRELEME KANITI] ---
+[2026-01-01 22:43:28] 1. Gelen Şifreli (ali): GD60ESl6op3EP43EJKQ+klGGoW7Vv0g1
+[2026-01-01 22:43:28] 2. Sunucu Çözdü (Plain): selam ozkan iyi misin?
+[2026-01-01 22:43:28] [UYARI] Hedef (ozkan) anahtarı bellekte yok. Mesaj saklanamıyor.
+[2026-01-01 22:43:37] 
+--- [ŞİFRELEME KANITI] ---
+[2026-01-01 22:43:37] 1. Gelen Şifreli (ali): hmgfMiIl88Rf7hsbfDqZcMatrMpgFysA
+[2026-01-01 22:43:37] 2. Sunucu Çözdü (Plain): selam veli iyi misin
+[2026-01-01 22:43:37] 3. Hedef (veli) İçin Şifrelendi: P0HDH8oQ60xt1kJB0UQ6XP8LEqZvVEsJ
+[2026-01-01 22:43:37] --------------------------
+
+[2026-01-01 22:43:57] 
+--- [ŞİFRELEME KANITI] ---
+[2026-01-01 22:43:57] 1. Gelen Şifreli (veli): BUv75u0quWhqm4qQrpe03f4VypHJ+lZO
+[2026-01-01 22:43:57] 2. Sunucu Çözdü (Plain): iyim ali sen nasılsın
+[2026-01-01 22:43:57] 3. Hedef (ali) İçin Şifrelendi: poZ7HYMaSPIcBk/qQFmStqqOV2/gPQIo
+[2026-01-01 22:43:57] --------------------------
+
+[2026-01-01 22:44:09] [AYRILDI] veli
+[2026-01-01 22:44:14] [AYRILDI] ali
+[2026-01-01 22:44:51] --- SUNUCU BAŞLATILIYOR (Port: 5555) ---

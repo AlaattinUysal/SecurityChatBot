@@ -1,0 +1,168 @@
+[14:53:11] --- [ENCODE BAŞLADI] Mesaj: cagatay123 ---
+[14:53:11] [DEĞİŞİM] Piksel(161,160) | Eski LSB: 1 -> Yeni LSB: 1 | Gizlenen Bit: 0
+[14:53:11] [DEĞİŞİM] Piksel(8,25) | Eski LSB: 1 -> Yeni LSB: 1 | Gizlenen Bit: 0
+[14:53:11] [DEĞİŞİM] Piksel(226,168) | Eski LSB: 1 -> Yeni LSB: 1 | Gizlenen Bit: 0
+[14:53:11] [DEĞİŞİM] Piksel(109,15) | Eski LSB: 1 -> Yeni LSB: 1 | Gizlenen Bit: 0
+[14:53:11] [DEĞİŞİM] Piksel(96,132) | Eski LSB: 0 -> Yeni LSB: 0 | Gizlenen Bit: 1
+[14:53:11] [DEĞİŞİM] Piksel(100,103) | Eski LSB: 0 -> Yeni LSB: 0 | Gizlenen Bit: 1
+[14:53:11] [DEĞİŞİM] Piksel(133,151) | Eski LSB: 0 -> Yeni LSB: 0 | Gizlenen Bit: 1
+[14:53:11] [DEĞİŞİM] Piksel(193,133) | Eski LSB: 1 -> Yeni LSB: 1 | Gizlenen Bit: 0
+[14:53:11] [DEĞİŞİM] Piksel(121,115) | Eski LSB: 1 -> Yeni LSB: 1 | Gizlenen Bit: 0
+[14:53:11] [DEĞİŞİM] Piksel(11,52) | Eski LSB: 1 -> Yeni LSB: 1 | Gizlenen Bit: 0
+[14:53:11] [DEĞİŞİM] Piksel(234,189) | Eski LSB: 1 -> Yeni LSB: 1 | Gizlenen Bit: 0
+[14:53:11] [DEĞİŞİM] Piksel(127,145) | Eski LSB: 0 -> Yeni LSB: 0 | Gizlenen Bit: 1
+[14:53:11] [DEĞİŞİM] Piksel(113,177) | Eski LSB: 1 -> Yeni LSB: 1 | Gizlenen Bit: 0
+[14:53:11] [DEĞİŞİM] Piksel(89,125) | Eski LSB: 1 -> Yeni LSB: 1 | Gizlenen Bit: 0
+[14:53:11] [DEĞİŞİM] Piksel(17,28) | Eski LSB: 1 -> Yeni LSB: 1 | Gizlenen Bit: 0
+[14:53:11] [DEĞİŞİM] Piksel(224,19) | Eski LSB: 1 -> Yeni LSB: 1 | Gizlenen Bit: 0
+[14:53:11] [DEĞİŞİM] Piksel(4,89) | Eski LSB: 1 -> Yeni LSB: 1 | Gizlenen Bit: 0
+[14:53:11] [DEĞİŞİM] Piksel(91,50) | Eski LSB: 0 -> Yeni LSB: 0 | Gizlenen Bit: 1
+[14:53:11] [DEĞİŞİM] Piksel(183,110) | Eski LSB: 1 -> Yeni LSB: 1 | Gizlenen Bit: 0
+[14:53:11] [DEĞİŞİM] Piksel(169,117) | Eski LSB: 1 -> Yeni LSB: 1 | Gizlenen Bit: 0
+[14:53:11] --- [ENCODE BİTTİ] Toplam Değişen Piksel Sayısı: 50 ---
+[14:53:11] --- [DECODE BAŞLADI] ---
+[14:53:11] --- [DECODE BİTTİ] Çözülen Mesaj: cagatay123 ---
+[14:53:18] --- [ENCODE BAŞLADI] Mesaj: ozkan1234 ---
+[14:53:18] [DEĞİŞİM] Piksel(361,34) | Eski LSB: 0 -> Yeni LSB: 0 | Gizlenen Bit: 1
+[14:53:18] [DEĞİŞİM] Piksel(191,2) | Eski LSB: 0 -> Yeni LSB: 0 | Gizlenen Bit: 1
+[14:53:18] [DEĞİŞİM] Piksel(323,161) | Eski LSB: 1 -> Yeni LSB: 1 | Gizlenen Bit: 0
+[14:53:18] [DEĞİŞİM] Piksel(27,358) | Eski LSB: 0 -> Yeni LSB: 0 | Gizlenen Bit: 1
+[14:53:18] [DEĞİŞİM] Piksel(192,228) | Eski LSB: 1 -> Yeni LSB: 1 | Gizlenen Bit: 0
+[14:53:18] [DEĞİŞİM] Piksel(479,426) | Eski LSB: 0 -> Yeni LSB: 0 | Gizlenen Bit: 1
+[14:53:18] [DEĞİŞİM] Piksel(477,179) | Eski LSB: 0 -> Yeni LSB: 0 | Gizlenen Bit: 1
+[14:53:18] [DEĞİŞİM] Piksel(500,63) | Eski LSB: 0 -> Yeni LSB: 0 | Gizlenen Bit: 1
+[14:53:18] [DEĞİŞİM] Piksel(288,376) | Eski LSB: 1 -> Yeni LSB: 1 | Gizlenen Bit: 0
+[14:53:18] [DEĞİŞİM] Piksel(387,379) | Eski LSB: 1 -> Yeni LSB: 1 | Gizlenen Bit: 0
+[14:53:18] [DEĞİŞİM] Piksel(320,157) | Eski LSB: 1 -> Yeni LSB: 1 | Gizlenen Bit: 0
+[14:53:18] [DEĞİŞİM] Piksel(309,0) | Eski LSB: 0 -> Yeni LSB: 0 | Gizlenen Bit: 1
+[14:53:18] [DEĞİŞİM] Piksel(28,389) | Eski LSB: 0 -> Yeni LSB: 0 | Gizlenen Bit: 1
+[14:53:18] [DEĞİŞİM] Piksel(369,371) | Eski LSB: 1 -> Yeni LSB: 1 | Gizlenen Bit: 0
+[14:53:18] [DEĞİŞİM] Piksel(436,305) | Eski LSB: 1 -> Yeni LSB: 1 | Gizlenen Bit: 0
+[14:53:18] [DEĞİŞİM] Piksel(166,113) | Eski LSB: 1 -> Yeni LSB: 1 | Gizlenen Bit: 0
+[14:53:18] [DEĞİŞİM] Piksel(28,348) | Eski LSB: 0 -> Yeni LSB: 0 | Gizlenen Bit: 1
+[14:53:18] [DEĞİŞİM] Piksel(165,26) | Eski LSB: 0 -> Yeni LSB: 0 | Gizlenen Bit: 1
+[14:53:18] [DEĞİŞİM] Piksel(290,468) | Eski LSB: 1 -> Yeni LSB: 1 | Gizlenen Bit: 0
+[14:53:18] [DEĞİŞİM] Piksel(340,425) | Eski LSB: 1 -> Yeni LSB: 1 | Gizlenen Bit: 0
+[14:53:18] --- [ENCODE BİTTİ] Toplam Değişen Piksel Sayısı: 35 ---
+[14:53:18] --- [DECODE BAŞLADI] ---
+[14:53:18] --- [DECODE BİTTİ] Çözülen Mesaj: ozkan1234 ---
+[14:54:18] --- [ENCODE BAŞLADI] Mesaj: test1234 ---
+[14:54:18] [DEĞİŞİM] Piksel(29,277) | Eski LSB: 1 -> Yeni LSB: 1 | Gizlenen Bit: 0
+[14:54:18] [DEĞİŞİM] Piksel(44,204) | Eski LSB: 0 -> Yeni LSB: 0 | Gizlenen Bit: 1
+[14:54:18] [DEĞİŞİM] Piksel(215,264) | Eski LSB: 1 -> Yeni LSB: 1 | Gizlenen Bit: 0
+[14:54:18] [DEĞİŞİM] Piksel(246,124) | Eski LSB: 0 -> Yeni LSB: 0 | Gizlenen Bit: 1
+[14:54:18] [DEĞİŞİM] Piksel(66,347) | Eski LSB: 1 -> Yeni LSB: 1 | Gizlenen Bit: 0
+[14:54:18] [DEĞİŞİM] Piksel(126,163) | Eski LSB: 1 -> Yeni LSB: 1 | Gizlenen Bit: 0
+[14:54:18] [DEĞİŞİM] Piksel(343,323) | Eski LSB: 1 -> Yeni LSB: 1 | Gizlenen Bit: 0
+[14:54:18] [DEĞİŞİM] Piksel(82,73) | Eski LSB: 0 -> Yeni LSB: 0 | Gizlenen Bit: 1
+[14:54:18] [DEĞİŞİM] Piksel(243,284) | Eski LSB: 1 -> Yeni LSB: 1 | Gizlenen Bit: 0
+[14:54:18] [DEĞİŞİM] Piksel(132,233) | Eski LSB: 1 -> Yeni LSB: 1 | Gizlenen Bit: 0
+[14:54:18] [DEĞİŞİM] Piksel(71,74) | Eski LSB: 0 -> Yeni LSB: 0 | Gizlenen Bit: 1
+[14:54:18] [DEĞİŞİM] Piksel(103,118) | Eski LSB: 0 -> Yeni LSB: 0 | Gizlenen Bit: 1
+[14:54:18] [DEĞİŞİM] Piksel(140,155) | Eski LSB: 1 -> Yeni LSB: 1 | Gizlenen Bit: 0
+[14:54:18] [DEĞİŞİM] Piksel(286,164) | Eski LSB: 0 -> Yeni LSB: 0 | Gizlenen Bit: 1
+[14:54:18] [DEĞİŞİM] Piksel(244,175) | Eski LSB: 0 -> Yeni LSB: 0 | Gizlenen Bit: 1
+[14:54:18] [DEĞİŞİM] Piksel(77,167) | Eski LSB: 0 -> Yeni LSB: 0 | Gizlenen Bit: 1
+[14:54:18] [DEĞİŞİM] Piksel(39,125) | Eski LSB: 0 -> Yeni LSB: 0 | Gizlenen Bit: 1
+[14:54:18] [DEĞİŞİM] Piksel(147,64) | Eski LSB: 0 -> Yeni LSB: 0 | Gizlenen Bit: 1
+[14:54:18] [DEĞİŞİM] Piksel(5,21) | Eski LSB: 1 -> Yeni LSB: 1 | Gizlenen Bit: 0
+[14:54:18] [DEĞİŞİM] Piksel(202,247) | Eski LSB: 0 -> Yeni LSB: 0 | Gizlenen Bit: 1
+[14:54:18] --- [ENCODE BİTTİ] Toplam Değişen Piksel Sayısı: 40 ---
+[14:54:19] --- [DECODE BAŞLADI] ---
+[14:54:19] --- [DECODE BİTTİ] Çözülen Mesaj: test1234 ---
+[14:54:53] --- [ENCODE BAŞLADI] Mesaj: cagatay123 ---
+[14:54:53] [DEĞİŞİM] Piksel(161,160) | Eski LSB: 1 -> Yeni LSB: 1 | Gizlenen Bit: 0
+[14:54:53] [DEĞİŞİM] Piksel(8,25) | Eski LSB: 1 -> Yeni LSB: 1 | Gizlenen Bit: 0
+[14:54:53] [DEĞİŞİM] Piksel(226,168) | Eski LSB: 1 -> Yeni LSB: 1 | Gizlenen Bit: 0
+[14:54:53] [DEĞİŞİM] Piksel(109,15) | Eski LSB: 1 -> Yeni LSB: 1 | Gizlenen Bit: 0
+[14:54:53] [DEĞİŞİM] Piksel(96,132) | Eski LSB: 0 -> Yeni LSB: 0 | Gizlenen Bit: 1
+[14:54:53] [DEĞİŞİM] Piksel(100,103) | Eski LSB: 0 -> Yeni LSB: 0 | Gizlenen Bit: 1
+[14:54:53] [DEĞİŞİM] Piksel(133,151) | Eski LSB: 0 -> Yeni LSB: 0 | Gizlenen Bit: 1
+[14:54:53] [DEĞİŞİM] Piksel(193,133) | Eski LSB: 1 -> Yeni LSB: 1 | Gizlenen Bit: 0
+[14:54:53] [DEĞİŞİM] Piksel(121,115) | Eski LSB: 1 -> Yeni LSB: 1 | Gizlenen Bit: 0
+[14:54:53] [DEĞİŞİM] Piksel(11,52) | Eski LSB: 1 -> Yeni LSB: 1 | Gizlenen Bit: 0
+[14:54:53] [DEĞİŞİM] Piksel(234,189) | Eski LSB: 1 -> Yeni LSB: 1 | Gizlenen Bit: 0
+[14:54:53] [DEĞİŞİM] Piksel(127,145) | Eski LSB: 0 -> Yeni LSB: 0 | Gizlenen Bit: 1
+[14:54:53] [DEĞİŞİM] Piksel(113,177) | Eski LSB: 1 -> Yeni LSB: 1 | Gizlenen Bit: 0
+[14:54:53] [DEĞİŞİM] Piksel(89,125) | Eski LSB: 1 -> Yeni LSB: 1 | Gizlenen Bit: 0
+[14:54:53] [DEĞİŞİM] Piksel(17,28) | Eski LSB: 1 -> Yeni LSB: 1 | Gizlenen Bit: 0
+[14:54:53] [DEĞİŞİM] Piksel(224,19) | Eski LSB: 1 -> Yeni LSB: 1 | Gizlenen Bit: 0
+[14:54:53] [DEĞİŞİM] Piksel(4,89) | Eski LSB: 1 -> Yeni LSB: 1 | Gizlenen Bit: 0
+[14:54:53] [DEĞİŞİM] Piksel(91,50) | Eski LSB: 0 -> Yeni LSB: 0 | Gizlenen Bit: 1
+[14:54:53] [DEĞİŞİM] Piksel(183,110) | Eski LSB: 1 -> Yeni LSB: 1 | Gizlenen Bit: 0
+[14:54:53] [DEĞİŞİM] Piksel(169,117) | Eski LSB: 1 -> Yeni LSB: 1 | Gizlenen Bit: 0
+[14:54:53] --- [ENCODE BİTTİ] Toplam Değişen Piksel Sayısı: 50 ---
+[14:54:53] --- [DECODE BAŞLADI] ---
+[14:54:53] --- [DECODE BİTTİ] Çözülen Mesaj: cagatay123 ---
+[14:55:35] --- [ENCODE BAŞLADI] Mesaj: cagatay123 ---
+[14:55:35] [DEĞİŞİM] Piksel(161,160) | Eski LSB: 1 -> Yeni LSB: 1 | Gizlenen Bit: 0
+[14:55:35] [DEĞİŞİM] Piksel(8,25) | Eski LSB: 1 -> Yeni LSB: 1 | Gizlenen Bit: 0
+[14:55:35] [DEĞİŞİM] Piksel(226,168) | Eski LSB: 1 -> Yeni LSB: 1 | Gizlenen Bit: 0
+[14:55:35] [DEĞİŞİM] Piksel(109,15) | Eski LSB: 1 -> Yeni LSB: 1 | Gizlenen Bit: 0
+[14:55:35] [DEĞİŞİM] Piksel(96,132) | Eski LSB: 0 -> Yeni LSB: 0 | Gizlenen Bit: 1
+[14:55:35] [DEĞİŞİM] Piksel(100,103) | Eski LSB: 0 -> Yeni LSB: 0 | Gizlenen Bit: 1
+[14:55:35] [DEĞİŞİM] Piksel(133,151) | Eski LSB: 0 -> Yeni LSB: 0 | Gizlenen Bit: 1
+[14:55:35] [DEĞİŞİM] Piksel(193,133) | Eski LSB: 1 -> Yeni LSB: 1 | Gizlenen Bit: 0
+[14:55:35] [DEĞİŞİM] Piksel(121,115) | Eski LSB: 1 -> Yeni LSB: 1 | Gizlenen Bit: 0
+[14:55:35] [DEĞİŞİM] Piksel(11,52) | Eski LSB: 1 -> Yeni LSB: 1 | Gizlenen Bit: 0
+[14:55:35] [DEĞİŞİM] Piksel(234,189) | Eski LSB: 1 -> Yeni LSB: 1 | Gizlenen Bit: 0
+[14:55:35] [DEĞİŞİM] Piksel(127,145) | Eski LSB: 0 -> Yeni LSB: 0 | Gizlenen Bit: 1
+[14:55:35] [DEĞİŞİM] Piksel(113,177) | Eski LSB: 1 -> Yeni LSB: 1 | Gizlenen Bit: 0
+[14:55:35] [DEĞİŞİM] Piksel(89,125) | Eski LSB: 1 -> Yeni LSB: 1 | Gizlenen Bit: 0
+[14:55:35] [DEĞİŞİM] Piksel(17,28) | Eski LSB: 1 -> Yeni LSB: 1 | Gizlenen Bit: 0
+[14:55:35] [DEĞİŞİM] Piksel(224,19) | Eski LSB: 1 -> Yeni LSB: 1 | Gizlenen Bit: 0
+[14:55:35] [DEĞİŞİM] Piksel(4,89) | Eski LSB: 1 -> Yeni LSB: 1 | Gizlenen Bit: 0
+[14:55:35] [DEĞİŞİM] Piksel(91,50) | Eski LSB: 0 -> Yeni LSB: 0 | Gizlenen Bit: 1
+[14:55:35] [DEĞİŞİM] Piksel(183,110) | Eski LSB: 1 -> Yeni LSB: 1 | Gizlenen Bit: 0
+[14:55:35] [DEĞİŞİM] Piksel(169,117) | Eski LSB: 1 -> Yeni LSB: 1 | Gizlenen Bit: 0
+[14:55:35] --- [ENCODE BİTTİ] Toplam Değişen Piksel Sayısı: 50 ---
+[14:55:35] --- [DECODE BAŞLADI] ---
+[14:55:35] --- [DECODE BİTTİ] Çözülen Mesaj: cagatay123 ---
+[22:42:51] --- [ENCODE BAŞLADI] Mesaj: 12345678 ---
+[22:42:52] [DEĞİŞİM] Piksel(1009,374) | Eski LSB: 1 -> Yeni LSB: 1 | Gizlenen Bit: 0
+[22:42:52] [DEĞİŞİM] Piksel(2318,2095) | Eski LSB: 1 -> Yeni LSB: 1 | Gizlenen Bit: 0
+[22:42:52] [DEĞİŞİM] Piksel(1934,2297) | Eski LSB: 1 -> Yeni LSB: 1 | Gizlenen Bit: 0
+[22:42:52] [DEĞİŞİM] Piksel(2270,779) | Eski LSB: 1 -> Yeni LSB: 1 | Gizlenen Bit: 0
+[22:42:52] [DEĞİŞİM] Piksel(252,2415) | Eski LSB: 1 -> Yeni LSB: 1 | Gizlenen Bit: 0
+[22:42:52] [DEĞİŞİM] Piksel(2244,2232) | Eski LSB: 1 -> Yeni LSB: 1 | Gizlenen Bit: 0
+[22:42:52] [DEĞİŞİM] Piksel(2244,1518) | Eski LSB: 1 -> Yeni LSB: 1 | Gizlenen Bit: 0
+[22:42:52] [DEĞİŞİM] Piksel(1631,1503) | Eski LSB: 1 -> Yeni LSB: 1 | Gizlenen Bit: 0
+[22:42:52] [DEĞİŞİM] Piksel(1135,1677) | Eski LSB: 1 -> Yeni LSB: 1 | Gizlenen Bit: 0
+[22:42:52] [DEĞİŞİM] Piksel(1328,1313) | Eski LSB: 1 -> Yeni LSB: 1 | Gizlenen Bit: 0
+[22:42:52] [DEĞİŞİM] Piksel(978,1872) | Eski LSB: 1 -> Yeni LSB: 1 | Gizlenen Bit: 0
+[22:42:52] [DEĞİŞİM] Piksel(128,1815) | Eski LSB: 1 -> Yeni LSB: 1 | Gizlenen Bit: 0
+[22:42:52] [DEĞİŞİM] Piksel(1425,10) | Eski LSB: 1 -> Yeni LSB: 1 | Gizlenen Bit: 0
+[22:42:52] [DEĞİŞİM] Piksel(453,1797) | Eski LSB: 1 -> Yeni LSB: 1 | Gizlenen Bit: 0
+[22:42:52] [DEĞİŞİM] Piksel(664,2840) | Eski LSB: 1 -> Yeni LSB: 1 | Gizlenen Bit: 0
+[22:42:52] [DEĞİŞİM] Piksel(1761,2793) | Eski LSB: 1 -> Yeni LSB: 1 | Gizlenen Bit: 0
+[22:42:52] [DEĞİŞİM] Piksel(295,671) | Eski LSB: 1 -> Yeni LSB: 1 | Gizlenen Bit: 0
+[22:42:52] [DEĞİŞİM] Piksel(2183,2563) | Eski LSB: 1 -> Yeni LSB: 1 | Gizlenen Bit: 0
+[22:42:52] [DEĞİŞİM] Piksel(2246,50) | Eski LSB: 1 -> Yeni LSB: 1 | Gizlenen Bit: 0
+[22:42:52] [DEĞİŞİM] Piksel(882,1392) | Eski LSB: 1 -> Yeni LSB: 1 | Gizlenen Bit: 0
+[22:42:52] --- [ENCODE BİTTİ] Toplam Değişen Piksel Sayısı: 40 ---
+[22:42:53] --- [DECODE BAŞLADI] ---
+[22:42:54] --- [DECODE BİTTİ] Çözülen Mesaj: 12345678 ---
+[22:43:16] --- [ENCODE BAŞLADI] Mesaj: 87654321 ---
+[22:43:17] [DEĞİŞİM] Piksel(516,636) | Eski LSB: 0 -> Yeni LSB: 0 | Gizlenen Bit: 1
+[22:43:17] [DEĞİŞİM] Piksel(1795,1335) | Eski LSB: 0 -> Yeni LSB: 0 | Gizlenen Bit: 1
+[22:43:17] [DEĞİŞİM] Piksel(1380,1270) | Eski LSB: 1 -> Yeni LSB: 1 | Gizlenen Bit: 0
+[22:43:17] [DEĞİŞİM] Piksel(265,341) | Eski LSB: 0 -> Yeni LSB: 0 | Gizlenen Bit: 1
+[22:43:17] [DEĞİŞİM] Piksel(1505,1533) | Eski LSB: 0 -> Yeni LSB: 0 | Gizlenen Bit: 1
+[22:43:17] [DEĞİŞİM] Piksel(896,1230) | Eski LSB: 1 -> Yeni LSB: 1 | Gizlenen Bit: 0
+[22:43:17] [DEĞİŞİM] Piksel(1218,354) | Eski LSB: 0 -> Yeni LSB: 0 | Gizlenen Bit: 1
+[22:43:17] [DEĞİŞİM] Piksel(1530,146) | Eski LSB: 0 -> Yeni LSB: 0 | Gizlenen Bit: 1
+[22:43:17] [DEĞİŞİM] Piksel(1284,1450) | Eski LSB: 1 -> Yeni LSB: 1 | Gizlenen Bit: 0
+[22:43:17] [DEĞİŞİM] Piksel(1801,576) | Eski LSB: 0 -> Yeni LSB: 0 | Gizlenen Bit: 1
+[22:43:17] [DEĞİŞİM] Piksel(629,1042) | Eski LSB: 1 -> Yeni LSB: 1 | Gizlenen Bit: 0
+[22:43:17] [DEĞİŞİM] Piksel(1477,208) | Eski LSB: 0 -> Yeni LSB: 0 | Gizlenen Bit: 1
+[22:43:17] [DEĞİŞİM] Piksel(121,1946) | Eski LSB: 0 -> Yeni LSB: 0 | Gizlenen Bit: 1
+[22:43:17] [DEĞİŞİM] Piksel(1466,842) | Eski LSB: 1 -> Yeni LSB: 1 | Gizlenen Bit: 0
+[22:43:17] [DEĞİŞİM] Piksel(147,2066) | Eski LSB: 0 -> Yeni LSB: 0 | Gizlenen Bit: 1
+[22:43:17] [DEĞİŞİM] Piksel(745,2202) | Eski LSB: 1 -> Yeni LSB: 1 | Gizlenen Bit: 0
+[22:43:17] [DEĞİŞİM] Piksel(399,2267) | Eski LSB: 0 -> Yeni LSB: 0 | Gizlenen Bit: 1
+[22:43:17] [DEĞİŞİM] Piksel(1586,881) | Eski LSB: 1 -> Yeni LSB: 1 | Gizlenen Bit: 0
+[22:43:17] [DEĞİŞİM] Piksel(1030,990) | Eski LSB: 1 -> Yeni LSB: 1 | Gizlenen Bit: 0
+[22:43:17] [DEĞİŞİM] Piksel(1409,2353) | Eski LSB: 0 -> Yeni LSB: 0 | Gizlenen Bit: 1
+[22:43:17] --- [ENCODE BİTTİ] Toplam Değişen Piksel Sayısı: 35 ---
+[22:43:17] --- [DECODE BAŞLADI] ---
+[22:43:18] --- [DECODE BİTTİ] Çözülen Mesaj: 87654321 ---
