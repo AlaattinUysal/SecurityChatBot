@@ -1,6 +1,6 @@
 # 🛡️ SteganoChat: Güvenli Mesajlaşma Sistemi
 
-**SteganoChat**, Java tabanlı, steganografi ve simetrik şifreleme tekniklerini harmanlayan çok katmanlı bir güvenlik sistemidir[cite: 144]. [cite_start]Bu proje, klasik kullanıcı adı ve parola doğrulamasının ötesine geçerek, gizli anahtarları (secret key) bir görsel içerisine **LSB (Least Significant Bit)** yöntemiyle gizleyen yenilikçi bir kimlik doğrulama mekanizması sunar[cite: 145].
+**SteganoChat**, Java tabanlı, steganografi ve simetrik şifreleme tekniklerini harmanlayan çok katmanlı bir güvenlik sistemidir. Bu proje, klasik kullanıcı adı ve parola doğrulamasının ötesine geçerek, gizli anahtarları (secret key) bir görsel içerisine **LSB (Least Significant Bit)** yöntemiyle gizleyen yenilikçi bir kimlik doğrulama mekanizması sunar.
 
 ## 🚀 Öne Çıkan Özellikler
 
